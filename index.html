@@ -11,6 +11,21 @@
 
     <title>postknit.io</title>
 
+    <!-- ridiculous javascript google font code -->
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Inconsolata:400,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -19,6 +34,7 @@
       body {
         padding-top: 40px;
         padding-bottom: 20px;
+        font-family: Inconsolata;
       }
       #flowchart{
         display: block;
@@ -27,6 +43,7 @@
       }
       .postknit-header{
         font-color: black;
+        font-family: Inconsolata;
       }
     </style>
   </head>
@@ -82,6 +99,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
   </body>
