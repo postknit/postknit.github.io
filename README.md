@@ -25,6 +25,8 @@ Process
     * On Screen: decode from PostKnit back to Processing & print original message _"I <3 cats"_
     * To Knit: output PostKnit code to knitting machine and create coded object _not sure what this looks like yet ;-)_
 
+![pk process](https://cloud.githubusercontent.com/assets/2982181/5350976/f7852c8a-7f1b-11e4-8124-f4fba4db3e2e.png)
+
 People & Tasks (TBD)
 ------
 * Rachel: UI, card design, knitting machine research, card reader research
