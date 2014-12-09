@@ -3,10 +3,6 @@ postknit
 
 Jacquard Loom Postcards WEBSITE
 
-PostKnit
-========
-
-Jacquard Loom Postcards   
 
 Process
 -------
